@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4999B817-0477-44A7-98F0-BBC782BB1397</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LSFontTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EBBC66C2-14A9-4747-A89C-DC22C4CF13C5</key>
+		<string>https://github.com/rajagp/iOS-DynamicTypes-Example.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LSFontTest.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BD207EFB-5145-4401-9B5F-FF63449751EE</key>
+		<string>../../LSFontTest</string>
+		<key>EBBC66C2-14A9-4747-A89C-DC22C4CF13C5</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/rajagp/iOS-DynamicTypes-Example.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EBBC66C2-14A9-4747-A89C-DC22C4CF13C5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EBBC66C2-14A9-4747-A89C-DC22C4CF13C5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOS-DynamicTypes-Example</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BD207EFB-5145-4401-9B5F-FF63449751EE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LSFontTest</string>
+		</dict>
+	</array>
+</dict>
+</plist>
